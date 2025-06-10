@@ -1,0 +1,1 @@
+La version utilizada de python fue la 3.13.3, lo que yo hice fue crear mi proyecto, activar el venv, luego instalar con el pip el request, luego linkie mi entorno con mi archivo y posteriormente lo subi a git. Esta es una explicacion simple de como lo hice.
